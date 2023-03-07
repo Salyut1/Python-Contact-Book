@@ -1,4 +1,3 @@
-# Create a CLI menu for the user to add a contact, edit a contact, delete a contact, or display all contacts.
 import re
 import os
 import json
